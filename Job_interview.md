@@ -9,13 +9,23 @@ Melalui artikel ini kita dapat mengetahui bagaimana sebuah teknologi informasi y
 
 ## 1.3. Branding
 
-bla bla bla
+pada tahapan brending kali ini saya membuat brending meliputi:
+> merk : Kopi Rumahan
 
+> Tagline : Dengan meminum kopi Rumahan kita akan mendapatkan manfaat untuk tubuh yaitu dapat meningkatkan fokus dan  kewaspadan , meningkatkan daya ingat, dan masih banyak yang lainnya.
+
+> target-user:
+ - usia 13+
+ - Seseorang yang senang meminum kopi(penikmat kopi)
+ - seseorang yang senang Nongkrong
+   
 ## 2. User Story
 
-bla | bla | bla | bla
----|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+Sebagai  | saya ingin            | sehingga                                | prioritas
+Pengguna | pengiriman cepat      | kopi yang saya pesan masih hangat       |⭐⭐⭐⭐⭐
+pengguna | Kemasan yang kualitas | sehingga kopi tetap terjaga dengan baik | ⭐⭐⭐⭐⭐
+Pengguna | Pembayaran            | dapat membayar secara e-money atau COD  | ⭐⭐⭐⭐
+
 
 ## 3. Struktur Data
 
