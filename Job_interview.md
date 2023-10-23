@@ -21,7 +21,6 @@ pada tahapan brending kali ini saya membuat brending meliputi:
  - seseorang yang senang Nongkrong
    
 ## 2. User Story
-
 Sebagai  | saya ingin            | sehingga                                | prioritas
 Pengguna | pengiriman cepat      | kopi yang saya pesan masih hangat       |⭐⭐⭐⭐⭐
 pengguna | Kemasan yang kualitas | sehingga kopi tetap terjaga dengan baik | ⭐⭐⭐⭐⭐
