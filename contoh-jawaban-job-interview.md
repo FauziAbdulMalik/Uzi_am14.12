@@ -12,10 +12,10 @@ bla bla bla
 
 ## 2. User Story
 
-Sebagai  | saya ingin            | sehingga                                | prioritas
-Pengguna | pengiriman cepat      | kopi yang saya pesan masih hangat       |⭐⭐⭐⭐⭐
-pengguna | Kemasan yang kualitas | sehingga kopi tetap terjaga dengan baik | ⭐⭐⭐⭐⭐
-Pengguna | Pembayaran            | dapat membayar secara e-money atau COD  | ⭐⭐⭐⭐
+bla | bla | bla | bla
+---|---|---|---
+bla | bla | bla | ⭐⭐⭐⭐⭐
+
 ## 3. Struktur Data
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
