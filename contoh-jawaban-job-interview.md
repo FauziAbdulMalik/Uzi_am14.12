@@ -1,6 +1,8 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+Di buatnya website ini adalah  untuk menimalisir penjualan bisnis kedai kopi karena semakin perkembangan zaman sistem informasi semakin banyak digunakan oleh karena itu dibuatlah website kedai kopi untuk memudahkan para penjual dan pmebeli. 
+
+Dan berbelanja dengan sistem online ini sudah di nikmati oleh hampir semua orang di seluruh dunia ,dengan sistem informasi yang semakin kesini semakin berkembang kita sebagai manusia pasti mengikuti perkembangan zaman yang dimana sistem informasi dan teknologi sangat cepat perkembangannya.     
 
 ## 1.2. Deksripsi Teknologi Informasi
 
