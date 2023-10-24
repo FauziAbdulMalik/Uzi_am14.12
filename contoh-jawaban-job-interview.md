@@ -7,7 +7,13 @@ Dan berbelanja dengan sistem online ini sudah di nikmati oleh hampir semua orang
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Melalui artikel ini kita dapat mengetahui bagaimana sebuah teknologi informasi yang berbasis client-server ini dibuat melalui sebuah website sederhana, dengan tujuan pembelian secara digital. Dengan adanya website ini kita dapat memudahkan pemesanan tanpa adanya suatu antrian.
+pada pembuatan kali ini saya menggunakan teknologi informasi mengggunakan:
+
+1. visual Studio code
+2. Html
+3. css
+4. javascript
+5. Figma 
 
 ## 1.3. Branding
 
@@ -24,6 +30,16 @@ Seseorang yang senang meminum kopi(penikmat kopi)
 seseorang yang senang Nongkrong
 seorang pekerja 
 seorang pelajar 
+
+User Experience Theme:
+
+Sederhana 
+pemesanan mudah
+propesionalisme
+warna : coklat dan hitam sesuai dengan warna kopi 
+Inspirasi desain:
+
+
 
 ## 2. User Story
 
