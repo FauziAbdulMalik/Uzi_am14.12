@@ -38,7 +38,16 @@ pada tahapan brending kali ini saya membuat brending meliputi:
     -warna : coklat dan hitam sesuai dengan warna kopi 
     -Inspirasi desain:
 
-
+- Merk: Rstore
+- Tagline: "Gaya Hidup dalam Satu Tempat"
+- Campaign:  Tempat yang menggabungkan seluruh aspek gaya hidup Anda dalam satu tempat yang nyaman dan inspiratif. Kami yakin bahwa gaya -hidup Anda adalah refleksi dari siapa Anda, dan kami siap membantu Anda menjalani hidup yang lebih baik dan berwarna.
+- Target user:
+    - Usia 12+
+    - Seorang yang senang up to date
+    - Seorang yang senang mengeksplorasi hal baru
+    - Seorang yang ingin memiliki suasana baru
+    - Seorang yang ingin memiliki barang berkualitas
+- User experience theme:
 
 ## 2. User Story
 
