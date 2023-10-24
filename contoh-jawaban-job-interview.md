@@ -19,27 +19,8 @@ pada pembuatan kali ini saya menggunakan teknologi informasi mengggunakan:
 
 pada tahapan brending kali ini saya membuat brending meliputi:
 
--merk : Kopi Rumahan
-
--Tagline : Dengan meminum kopi Rumahan kita akan mendapatkan manfaat untuk tubuh yaitu dapat meningkatkan fokus dan kewaspadan , meningkatkan daya ingat, dan masih banyak yang lainnya.
-
--target-user:
-
--usia 13+
-    -Seseorang yang senang meminum kopi(penikmat kopi)
-    -seseorang yang senang Nongkrong
-    -seorang pekerja 
-    -seorang pelajar 
-
--User Experience Theme:
-    -Sederhana 
-    -pemesanan mudah
-    -propesionalisme
-    -warna : coklat dan hitam sesuai dengan warna kopi 
-    -Inspirasi desain:
-
-- Merk: Rstore
-- Tagline: "Gaya Hidup dalam Satu Tempat"
+- Merk: Kopi Rumahan 
+- Tagline: ""
 - Campaign:  Tempat yang menggabungkan seluruh aspek gaya hidup Anda dalam satu tempat yang nyaman dan inspiratif. Kami yakin bahwa gaya -hidup Anda adalah refleksi dari siapa Anda, dan kami siap membantu Anda menjalani hidup yang lebih baik dan berwarna.
 - Target user:
     - Usia 12+
