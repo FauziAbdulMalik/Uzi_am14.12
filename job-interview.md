@@ -50,8 +50,8 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+    kopi ||--o{ kirim : tersusun
+    PEMBELI ||--|{ Kopi : beli
 ```
 
 ## 4. Arsitektur Sistem
