@@ -20,7 +20,7 @@ pada pembuatan kali ini saya menggunakan teknologi informasi mengggunakan:
 pada tahapan brending kali ini saya membuat brending meliputi:
 
 - Merk: Kopi Rumahan 
-- Tagline: ""
+- Tagline: "Kopi Berkualitas"
 - Campaign:  Tempat yang menggabungkan seluruh aspek gaya hidup Anda dalam satu tempat yang nyaman dan inspiratif. Kami yakin bahwa gaya -hidup Anda adalah refleksi dari siapa Anda, dan kami siap membantu Anda menjalani hidup yang lebih baik dan berwarna.
 - Target user:
     - Usia 12+
