@@ -19,11 +19,11 @@ pada pembuatan kali ini saya menggunakan teknologi informasi mengggunakan:
 
 pada tahapan brending kali ini saya membuat brending meliputi:
 
--merk : Kopi Rumahan
+>merk : Kopi Rumahan
 
--Tagline : Dengan meminum kopi Rumahan kita akan mendapatkan manfaat untuk tubuh yaitu dapat meningkatkan fokus dan kewaspadan , meningkatkan daya ingat, dan masih banyak yang lainnya.
+>Tagline : Dengan meminum kopi Rumahan kita akan mendapatkan manfaat untuk tubuh yaitu dapat meningkatkan fokus dan kewaspadan , meningkatkan daya ingat, dan masih banyak yang lainnya.
 
--target-user:
+>target-user:
 
 -usia 13+
 -Seseorang yang senang meminum kopi(penikmat kopi)
