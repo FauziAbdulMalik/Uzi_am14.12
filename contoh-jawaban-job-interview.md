@@ -21,20 +21,28 @@ pada tahapan brending kali ini saya membuat brending meliputi:
 
 - Merk: Kopi Rumahan 
 - Tagline: "Kopi Berkualitas"
-- Campaign:  Tempat yang menggabungkan seluruh aspek gaya hidup Anda dalam satu tempat yang nyaman dan inspiratif. Kami yakin bahwa gaya -hidup Anda adalah refleksi dari siapa Anda, dan kami siap membantu Anda menjalani hidup yang lebih baik dan berwarna.
+- Campaign:  Dengan meminum kopi Rumahan kita akan mendapatkan manfaat untuk tubuh yaitu dapat meningkatkan fokus dan  kewaspadan , meningkatkan daya ingat, dan masih banyak yang lainnya.
 - Target user:
-    - Usia 12+
-    - Seorang yang senang up to date
-    - Seorang yang senang mengeksplorasi hal baru
-    - Seorang yang ingin memiliki suasana baru
-    - Seorang yang ingin memiliki barang berkualitas
+    - Usia 13+
+    - Seorang yang senang dengan KOPI
+    - Seorang yang Penikmat kopi
+    - Seorang Pekerja 
+    - Seorang Pelajar 
 - User experience theme:
-
+  - Sederhana
+    - Pemesanan mudah
+    - Profesionalisme
+    - warna: warna coklat dan Hitam yang memberikan suasana hangat saat meminum kopi dikarenakan sesuai dengan warna kopi
+    - Inspirasi desain :
 ## 2. User Story
 
-Sebagai  | Saya Ingin Bisa  | Sehingga | prioritas
-pengguna | --- |---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+sebagai | saya ingin bisa | sehingga | Prioritas
+---|---|---|---
+pengguna | melihat daftar menu  | bisa memilih produk yang tersedia di toko | ⭐⭐⭐⭐⭐
+pengguna | mencari daftar menu | bisa memudahkan saya dalam menemukan menu yang sedang dicari | ⭐⭐⭐⭐⭐
+pengguna | memasukan alamat | bisa  menentukan alamat pengiriman paket  | ⭐⭐⭐⭐⭐
+pengguna | pengiriman Cepat | agar Kopi tetap hangat saat di minum | ⭐⭐⭐⭐⭐
+pengguna | Melihat ringkasan pemesanan | agar dapat mengecek pesanan sebelum di konfirmasi| ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
