@@ -1,4 +1,5 @@
 ## 1.1 Latar Belakang
+Melalui artikel ini kita dapat mengetahui bagaimana sebuah teknologi informasi yang berbasis client-server ini dibuat melalui sebuah website sederhana, dengan tujuan pembelian secara digital. Dengan adanya website ini kita dapat memudahkan pemesanan tanpa adanya suatu antrian.
 
 Di buatnya website ini adalah  untuk menimalisir penjualan bisnis kedai kopi karena semakin perkembangan zaman sistem informasi semakin banyak digunakan oleh karena itu dibuatlah website kedai kopi untuk memudahkan para penjual dan pmebeli. 
 
@@ -10,12 +11,24 @@ Melalui artikel ini kita dapat mengetahui bagaimana sebuah teknologi informasi y
 
 ## 1.3. Branding
 
-bla bla bla
+pada tahapan brending kali ini saya membuat brending meliputi:
+
+merk : Kopi Rumahan
+
+Tagline : Dengan meminum kopi Rumahan kita akan mendapatkan manfaat untuk tubuh yaitu dapat meningkatkan fokus dan kewaspadan , meningkatkan daya ingat, dan masih banyak yang lainnya.
+
+target-user:
+
+usia 13+
+Seseorang yang senang meminum kopi(penikmat kopi)
+seseorang yang senang Nongkrong
+seorang pekerja 
+seorang pelajar 
 
 ## 2. User Story
 
-bla | bla | bla | bla
----|---|---|---
+Sebagai  | Saya Ingin Bisa  | Sehingga | prioritas
+pengguna | --- |---|---
 bla | bla | bla | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
