@@ -4,7 +4,7 @@ bla bla bla
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+Melalui artikel ini kita dapat mengetahui bagaimana sebuah teknologi informasi yang berbasis client-server ini dibuat melalui sebuah website sederhana, dengan tujuan pembelian secara digital. Dengan adanya website ini kita dapat memudahkan pemesanan tanpa adanya suatu antrian.
 
 ## 1.3. Branding
 
