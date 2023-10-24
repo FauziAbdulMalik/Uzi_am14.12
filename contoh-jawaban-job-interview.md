@@ -30,10 +30,10 @@ pada tahapan brending kali ini saya membuat brending meliputi:
     - Seorang Pelajar 
 - User experience theme:
   - Sederhana
-    - Pemesanan mudah
-    - Profesionalisme
-    - warna: warna coklat dan Hitam yang memberikan suasana hangat saat meminum kopi dikarenakan sesuai dengan warna kopi
-    - Inspirasi desain :
+  - Pemesanan mudah
+  - Profesionalisme
+  - warna: warna coklat dan Hitam yang memberikan suasana hangat saat meminum kopi dikarenakan sesuai dengan warna kopi
+  - Inspirasi desain :
 ## 2. User Story
 
 sebagai | saya ingin bisa | sehingga | Prioritas
