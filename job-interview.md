@@ -1,19 +1,15 @@
 ## 1.1 Latar Belakang
 Melalui artikel ini kita dapat mengetahui bagaimana sebuah teknologi informasi yang berbasis client-server ini dibuat melalui sebuah website sederhana, dengan tujuan pembelian secara digital. Dengan adanya website ini kita dapat memudahkan pemesanan tanpa adanya suatu antrian.
 
-Di buatnya website ini adalah  untuk menimalisir penjualan bisnis kedai kopi karena semakin perkembangan zaman sistem informasi semakin banyak digunakan oleh karena itu dibuatlah website kedai kopi untuk memudahkan para penjual dan pmebeli. 
+Di buatnya website ini adalah  untuk menimalisir penjualan bisnis kedai kopi karena semakin perkembangan zaman sistem informasi semakin banyak digunakan, oleh karena itu dibuatlah website kedai kopi untuk memudahkan para penjual dan pmebeli. 
 
 Dan berbelanja dengan sistem online ini sudah di nikmati oleh hampir semua orang di seluruh dunia ,dengan sistem informasi yang semakin kesini semakin berkembang kita sebagai manusia pasti mengikuti perkembangan zaman yang dimana sistem informasi dan teknologi sangat cepat perkembangannya.     
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-pada pembuatan kali ini saya menggunakan teknologi informasi mengggunakan:
+pada pembuatan kali ini saya menggunakan teknologi informasi :
 
-1. visual Studio code
-2. Html
-3. css
-4. javascript
-5. Figma 
+ Saya menggunakan MySQL untuk databasenya dan menggunakan visual Studio code untuk membuat program yang saya buat dan menggunakan HTML,CSS dan JAVASCRIPT sebagai library dan juga saya menggunakan Figma untuk mendesain rancangan aplikasi yang saya buat. 
 
 ## 1.3. Branding
 
@@ -21,7 +17,7 @@ pada tahapan brending kali ini saya membuat brending meliputi:
 
 - Merk: Kopi Rumahan 
 - Tagline: "Kopi Berkualitas"
-- Campaign:  Dengan meminum kopi Rumahan kita akan mendapatkan manfaat untuk tubuh yaitu dapat meningkatkan fokus dan  kewaspadan , meningkatkan daya ingat, dan masih banyak yang lainnya.
+- Campaign:  Dengan meminum kopi Rumahan kita akan mendapatkan manfaat untuk tubuh yaitu dapat meningkatkan fokus dan  kewaspadaan , meningkatkan daya ingat, dan masih banyak yang lainnya.
 - Target user:
     - Usia 13+
     - Seorang yang senang dengan KOPI
@@ -35,7 +31,7 @@ pada tahapan brending kali ini saya membuat brending meliputi:
   - warna: warna coklat dan Hitam yang memberikan suasana hangat saat meminum kopi dikarenakan sesuai dengan warna kopi
   - Inspirasi desain :
   - ![Frame 1](https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/8f1395c3-42c8-4bd7-be8d-6504ac9e0f5c)
-<img width="551" alt="Screenshot 2023-10-25 093327" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/477cb0a8-66ef-480d-97a7-7e21c59bf1a3">
+
 
 ## 2. User Story
 
