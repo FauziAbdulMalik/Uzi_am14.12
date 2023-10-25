@@ -35,6 +35,7 @@ pada tahapan brending kali ini saya membuat brending meliputi:
   - warna: warna coklat dan Hitam yang memberikan suasana hangat saat meminum kopi dikarenakan sesuai dengan warna kopi
   - Inspirasi desain :
   - ![Frame 1](https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/8f1395c3-42c8-4bd7-be8d-6504ac9e0f5c)
+<img width="551" alt="Screenshot 2023-10-25 093327" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/477cb0a8-66ef-480d-97a7-7e21c59bf1a3">
 
 ## 2. User Story
 
