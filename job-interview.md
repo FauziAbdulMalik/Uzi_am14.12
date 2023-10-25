@@ -7,8 +7,6 @@ Dan berbelanja dengan sistem online ini sudah di nikmati oleh hampir semua orang
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-pada pembuatan kali ini saya menggunakan teknologi informasi :
-
  Saya menggunakan MySQL untuk databasenya dan menggunakan visual Studio code untuk membuat program yang saya buat dan menggunakan HTML,CSS dan JAVASCRIPT sebagai library dan juga saya menggunakan Figma untuk mendesain rancangan aplikasi yang saya buat. 
 
 ## 1.3. Branding
