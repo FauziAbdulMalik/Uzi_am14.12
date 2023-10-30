@@ -61,7 +61,8 @@ bla bla bla
 
 ## 6. Desain User Experience dan User Interface
 - tampilan home awal desktop
-  ![Frame 1](https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/8f1395c3-42c8-4bd7-be8d-6504ac9e0f5c)
+ ![Frame 1](https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/0bf9e82b-a4ab-4e4e-be4d-84f2f99129a1)
+
 - ketika di klik searching
   <img width="657" alt="Screenshot 2023-10-30 221027" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/9b8f2f4e-0e84-4546-a8ed-9d11bc3810f7">
 - ketika di Klik About
