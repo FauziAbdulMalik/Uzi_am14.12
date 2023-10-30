@@ -60,9 +60,14 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 bla bla bla
 
 ## 6. Desain User Experience dan User Interface
+- tampilan home awal desktop
+- ketika di klik searching
+  <img width="657" alt="Screenshot 2023-10-30 221027" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/9b8f2f4e-0e84-4546-a8ed-9d11bc3810f7">
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+- tampilan menu
+- tampilan 
+- tampilan home mobile
+  
 
 ## 7. Demonstrasi Video
 
