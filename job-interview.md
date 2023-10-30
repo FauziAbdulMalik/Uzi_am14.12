@@ -61,12 +61,15 @@ bla bla bla
 
 ## 6. Desain User Experience dan User Interface
 - tampilan home awal desktop
+  ![Frame 1](https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/8f1395c3-42c8-4bd7-be8d-6504ac9e0f5c)
 - ketika di klik searching
   <img width="657" alt="Screenshot 2023-10-30 221027" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/9b8f2f4e-0e84-4546-a8ed-9d11bc3810f7">
-
-- tampilan menu
-- tampilan 
-- tampilan home mobile
+- ketika di Klik About
+  <img width="660" alt="Screenshot 2023-10-30 221624" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/cec5c762-71cd-4cd4-8c80-ccc5d2ce05d2">
+- ketika di Klik Menu
+  <img width="653" alt="Screenshot 2023-10-30 221914" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/dd1d45c8-f8f0-4aa5-b5fb-54195f9f3fdb">
+- ketika di Klik Contact
+- tampilan Handphone
   
 
 ## 7. Demonstrasi Video
