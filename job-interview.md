@@ -48,8 +48,18 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    kopi ||--o{ kirim : tersusun
-    PEMBELI ||--|{ Kopi : beli
+    Pengguna  ||--o{ Pemesanan : tersusun
+    pengguna {
+       int nomorPesanan 
+       String Nama
+       String NamaPesanan
+       
+     }
+    Admin  ||--|{ Penjual : menerima
+    Admin {
+     int nomorPesanan
+     String NamaPesanan
+}
 ```
 
 ## 4. Arsitektur Sistem
