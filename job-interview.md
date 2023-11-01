@@ -49,14 +49,13 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 ```mermaid
 erDiagram
     Pengguna  ||--o{ Pemesanan : tersusun
-    pengguna {
+    pengguna 
        int nomorPesanan 
        String Nama
        String NamaPesanan
-       
      }
     Admin  ||--|{ Penjual : menerima
-    Admin {
+    Admin 
      int nomorPesanan
      String NamaPesanan
 }
