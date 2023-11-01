@@ -31,6 +31,7 @@ pada tahapan brending kali ini saya membuat brending meliputi:
   - ![Frame 1](https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/8f1395c3-42c8-4bd7-be8d-6504ac9e0f5c)
 
 
+
 ## 2. User Story
 
 sebagai | saya ingin bisa | sehingga | Prioritas
