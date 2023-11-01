@@ -49,7 +49,8 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 ```mermaid
 erDiagram
     kopi ||--o{ kirim : tersusun
-   ||-- PEMBELI ||--|{ Kopi : beli
+    PEMBELI ||--|{ Kopi : beli
+perngiriman ||--{ JNE : menuju alamat 
 ```
 
 ## 4. Arsitektur Sistem
