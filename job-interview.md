@@ -48,7 +48,7 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    kopi ||--o{ kirim : tersusun}|
+    kopi ||--o{ kirim : tersusun
     PEMBELI ||--|{ Kopi : beli
 ```
 
