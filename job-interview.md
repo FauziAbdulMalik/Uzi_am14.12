@@ -48,17 +48,32 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    Pengguna  ||--o{ Pemesanan : tersusun
-    pengguna 
-       int nomorPesanan 
-       String Nama
-       String NamaPesanan
-     }
-    Admin  ||--|{ Penjual : menerima
-    Admin 
-     int nomorPesanan
-     String NamaPesanan
-}
+   PENGGUNA ||--o{ PEMESANAN : pesan
+    PENGGUNA {
+        int    NomorPesanan
+        string nama_lengkap
+    }
+    PEMESANAN {
+        string namaPesanan
+        int Jumlah_Pesanan
+        string id_pengendara
+        timestamp waktu_pemesanan
+    }
+ KONFIRMASI ||--o{ PEMESANAN : persetujuan
+    KONFIRMASI {
+        string id_Pemesan
+        string email
+        int nomor_Handphone
+    }
+PENGENDARA ||--o{ KONFIMASI : melayani
+    PENGENDARA {
+        string id_pengendara
+        string nama_lengkap
+        string email
+    }
+
+
+
 ```
 
 ## 4. Arsitektur Sistem
@@ -67,7 +82,7 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+Saya membuat website ini menggunakan teknologi visual Studio Code dan library yang digunakan adalah Hmtl,css dan javaScript sedangkan Framework saya menggunakan Css dan JavaScript 
 
 ## 6. Desain User Experience dan User Interface
 - tampilan home awal desktop
