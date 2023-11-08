@@ -51,14 +51,15 @@ erDiagram
         int    NomorPesanan
         string nama_lengkap
     }
+    PEMESANAN ||--|{ KONFIRMASI : persetujuan 
     PEMESANAN {
         string namaPesanan
         int Jumlah_Pesanan
         string id_pengendara
         timestamp waktu_pemesanan
     }
- KONFIRMASI ||--o{ PENGENDARA  : persetujuan
-    KONFIRMASI {
+ KONFIRMASI ||--|{ PENGENDARA  : pengantaran
+    KONFIRMASI{
         string id_Pemesan
         string email
         int nomor_Handphone
@@ -83,7 +84,9 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 Saya membuat website ini menggunakan teknologi visual Studio Code dan library yang digunakan adalah Hmtl,css dan javaScript sedangkan Framework saya menggunakan Css dan JavaScript 
 
 ## 6. Desain User Experience dan User Interface
+
 - tampilan home awal desktop
+  
   <img width="265" alt="Screenshot 2023-10-30 222407" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/ad073818-ae3d-4b88-9450-0204a51f31cd">
 - ketika di klik searching
   <img width="657" alt="Screenshot 2023-10-30 221027" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/9b8f2f4e-0e84-4546-a8ed-9d11bc3810f7">
@@ -95,7 +98,8 @@ Saya membuat website ini menggunakan teknologi visual Studio Code dan library ya
 <img width="259" alt="Screenshot 2023-11-08 194315" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/656d10e5-1afd-46a5-b1b7-db00c6b48c39">
 
 - tampilan Handphone
-  <img width="213" alt="Screenshot 2023-11-08 194153" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/74099b68-28ab-42f6-9ab4-e3ffa74e4038">
+<img width="420" alt="Screenshot 2023-11-08 201001" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/6d5910ef-b383-4c38-9bab-89ffa8730bfb">
+
 
   
 
