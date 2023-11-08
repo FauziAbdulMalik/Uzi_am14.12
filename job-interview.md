@@ -1,9 +1,7 @@
 ## 1.1 Latar Belakang
 Melalui artikel ini kita dapat mengetahui bagaimana sebuah teknologi informasi yang berbasis client-server ini dibuat melalui sebuah website sederhana, dengan tujuan pembelian secara digital. Dengan adanya website ini kita dapat memudahkan pemesanan tanpa adanya suatu antrian.
 
-Di buatnya website ini adalah  untuk menimalisir penjualan bisnis kedai kopi karena semakin perkembangan zaman sistem informasi semakin banyak digunakan, oleh karena itu dibuatlah website kedai kopi untuk memudahkan para penjual dan pembeli. 
-
-Dan berbelanja dengan sistem online ini sudah di nikmati oleh hampir semua orang di seluruh dunia ,dengan sistem informasi yang semakin kesini semakin berkembang kita sebagai manusia pasti mengikuti perkembangan zaman yang dimana sistem informasi dan teknologi sangat cepat perkembangannya.     
+Di buatnya website ini adalah  untuk menimalisir penjualan bisnis kedai kopi karena semakin perkembangan zaman sistem informasi semakin banyak digunakan, oleh karena itu dibuatlah website kedai kopi untuk memudahkan para penjual dan pembeli.dan berbelanja dengan sistem online ini sudah di nikmati oleh hampir semua orang di seluruh dunia ,dengan sistem informasi yang semakin kesini semakin berkembang kita sebagai manusia pasti mengikuti perkembangan zaman yang dimana sistem informasi dan teknologi sangat cepat perkembangannya.     
 
 ## 1.2. Deksripsi Teknologi Informasi
 
@@ -94,7 +92,10 @@ Saya membuat website ini menggunakan teknologi visual Studio Code dan library ya
 - ketika di Klik Menu
   <img width="653" alt="Screenshot 2023-10-30 221914" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/dd1d45c8-f8f0-4aa5-b5fb-54195f9f3fdb">
 - ketika di Klik Contact
+  <img width="130" alt="Screenshot 2023-11-08 193951" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/94aa6e6d-cb15-451b-b557-9d543a76c594">
 - tampilan Handphone
+  <img width="213" alt="Screenshot 2023-11-08 194153" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/74099b68-28ab-42f6-9ab4-e3ffa74e4038">
+
   
 
 ## 7. Demonstrasi Video
