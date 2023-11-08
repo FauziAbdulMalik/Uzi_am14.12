@@ -57,17 +57,17 @@ erDiagram
         string id_pengendara
         timestamp waktu_pemesanan
     }
- KONFIRMASI ||--o{ PEMESANAN : persetujuan
+ KONFIRMASI ||--o{ PENGENDARA  : persetujuan
     KONFIRMASI {
         string id_Pemesan
         string email
         int nomor_Handphone
     }
-PENGENDARA ||--o{ KONFIMASI : melayani
-    PENGENDARA {
+PENGENDARA {
         string id_pengendara
         string nama_lengkap
-        string email
+        string Email
+        int  waktu_pengantaran
     }
 
 
@@ -92,7 +92,8 @@ Saya membuat website ini menggunakan teknologi visual Studio Code dan library ya
 - ketika di Klik Menu
   <img width="653" alt="Screenshot 2023-10-30 221914" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/dd1d45c8-f8f0-4aa5-b5fb-54195f9f3fdb">
 - ketika di Klik Contact
-  <img width="130" alt="Screenshot 2023-11-08 193951" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/94aa6e6d-cb15-451b-b557-9d543a76c594">
+<img width="259" alt="Screenshot 2023-11-08 194315" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/656d10e5-1afd-46a5-b1b7-db00c6b48c39">
+
 - tampilan Handphone
   <img width="213" alt="Screenshot 2023-11-08 194153" src="https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/74099b68-28ab-42f6-9ab4-e3ffa74e4038">
 
