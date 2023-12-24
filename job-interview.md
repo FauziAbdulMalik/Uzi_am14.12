@@ -35,10 +35,13 @@ sebagai | saya ingin bisa | sehingga | Prioritas
 ---|---|---|---
 pengguna | melihat daftar menu  | bisa memilih produk yang tersedia di toko | ⭐⭐⭐⭐⭐
 pengguna | mencari daftar menu | bisa memudahkan saya dalam menemukan menu yang sedang dicari | ⭐⭐⭐⭐⭐
-pengguna | memasukan alamat | bisa  menentukan alamat pengiriman paket  | ⭐⭐⭐⭐⭐
-pengguna | pengiriman Cepat | agar Kopi tetap hangat saat di minum | ⭐⭐⭐⭐⭐
+pengguna | memasukan alamat | bisa  menentukan alamat pengiriman kopi | ⭐⭐⭐⭐⭐
+pengguna | pengiriman Cepat | agar Kopi tetap hangat saat di minum | ⭐⭐⭐⭐
 pengguna | Melihat ringkasan pemesanan | agar dapat mengecek pesanan sebelum di konfirmasi| ⭐⭐⭐⭐
-
+pengguna | memberikan nilai kopi | agar kualitas kedai kopi dapat di tingkatkan | ⭐⭐⭐⭐
+pengguna | memberikan kometar | agar dapat memberikan saran kepada kedai kopi |⭐⭐⭐⭐
+pengguna | melihat harga | mengetahui harga pesanan kopi | ⭐⭐⭐⭐⭐
+pengguna | memilih nomor meja | untuk membooking meja apabila ingin minum kopi di tempat dan memudahkan pelayan mengantarkan pesanan | ⭐⭐⭐⭐⭐
 ## 3. Struktur Data
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
