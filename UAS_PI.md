@@ -31,7 +31,7 @@ https://app.diagrams.net/#G1X8ZG8bQqsa9vZerfALDUc-pX5tP9FdeZ
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-https://scratch.mit.edu/projects/944456183/editor/
+[https://scratch.mit.edu/projects/944456183/editor/](https://scratch.mit.edu/projects/944456183)
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
