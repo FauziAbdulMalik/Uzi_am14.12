@@ -16,10 +16,12 @@ Komputer pribadi dan server ini merupakan salah satu perangkat yang ada dalam me
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 https://drive.google.com/file/d/1XJN4gIAftw_np_RG_kpH-_yFkB_m1YMD/view?usp=drive_link
+
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 https://drive.google.com/file/d/1dAGWDQ4oJoDcHq_yKzgabls-cZRRsM7_/view?usp=drive_link
+
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
