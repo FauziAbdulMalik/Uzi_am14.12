@@ -1,8 +1,7 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-https://drive.google.com/file/d/1XJN4gIAftw_np_RG_kpH-_yFkB_m1YMD/view?usp=drive_link
-
+https://drive.google.com/file/d/1P69oAEB9dABOhH8q3vpXWhghIi2Dpvyb/view?usp=drive_link
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 Mesin komputasi merupakan mesin yang merujuk pada berbagai jenis hardware dan software. Mesin komputasi digunakan untuk memproses informasi dan menyelesaikan tugas komputasi. 
 Jenis-jenis mesin komputasi yang umum digunakan diantaranya :
@@ -16,11 +15,11 @@ Jenis-jenis mesin komputasi yang umum digunakan diantaranya :
 Komputer pribadi dan server ini merupakan salah satu perangkat yang ada dalam mesin komputasi  dan sebenarnya masih banyak lagi jenis jenis mesin komputasi seperti komputer kuantum, komputer tablet dan smartphone, komputer wearble,mainfreme, embedded systems, konsol game, superkomputer, dan komputer kognitif. Ini adalah mesin yang umum digunakannya dan sebenarnya masih banyak lagi yang lainnya.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-<video src="menjelaskan%20Google%20Colab%20.mp4" controls title="Title"></video>
+https://drive.google.com/file/d/1XJN4gIAftw_np_RG_kpH-_yFkB_m1YMD/view?usp=drive_link
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
-
+https://drive.google.com/file/d/1dAGWDQ4oJoDcHq_yKzgabls-cZRRsM7_/view?usp=drive_link
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
