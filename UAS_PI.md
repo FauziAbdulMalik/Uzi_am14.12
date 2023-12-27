@@ -1,7 +1,7 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-<video src="menjelaskan%20soal%20no.1.mp4" controls title="Title"></video>
+https://drive.google.com/file/d/1XJN4gIAftw_np_RG_kpH-_yFkB_m1YMD/view?usp=drive_link
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 Mesin komputasi merupakan mesin yang merujuk pada berbagai jenis hardware dan software. Mesin komputasi digunakan untuk memproses informasi dan menyelesaikan tugas komputasi. 
