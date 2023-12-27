@@ -25,6 +25,7 @@ https://drive.google.com/file/d/1dAGWDQ4oJoDcHq_yKzgabls-cZRRsM7_/view?usp=drive
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+https://drive.google.com/file/d/1ip9SKlHYVLI7ZF1AyoJZssDBcutD_ArX/view?usp=drive_link
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 https://app.diagrams.net/#G1X8ZG8bQqsa9vZerfALDUc-pX5tP9FdeZ
