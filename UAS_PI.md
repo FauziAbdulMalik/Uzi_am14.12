@@ -36,7 +36,8 @@ https://app.diagrams.net/#G1X8ZG8bQqsa9vZerfALDUc-pX5tP9FdeZ
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 https://scratch.mit.edu/projects/944456183
-Referensi [1](https://scratch.mit.edu/)
+![Scratch](https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/3ca42567-fb95-432f-afa1-3a39ad167156)
+
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
