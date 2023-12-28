@@ -32,7 +32,7 @@ https://drive.google.com/file/d/1ip9SKlHYVLI7ZF1AyoJZssDBcutD_ArX/view?usp=drive
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 https://app.diagrams.net/#G1X8ZG8bQqsa9vZerfALDUc-pX5tP9FdeZ
 ![Alt text](<flowcart algoritma.drawio-1.png>)
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 https://scratch.mit.edu/projects/944456183
