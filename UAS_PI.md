@@ -53,9 +53,6 @@ https://drive.google.com/file/d/1ru06CwRVkHYXYygPnW4ekl8i1wADCAk6/view?usp=drive
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 https://drive.google.com/file/d/1vEePIEWPyTm1L6sR8zQ-WQ4cT2BEV1xJ/view?usp=drive_link
 
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
-
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
