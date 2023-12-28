@@ -44,6 +44,8 @@ Referensi [1](https://scratch.mit.edu/)
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 https://drive.google.com/file/d/1ru06CwRVkHYXYygPnW4ekl8i1wADCAk6/view?usp=drive_link
+![HackerRank](https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/bfc4c565-6559-4dff-a5c0-a59fb36929c4)
+
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
