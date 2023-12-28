@@ -3,6 +3,8 @@
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 https://drive.google.com/file/d/1P69oAEB9dABOhH8q3vpXWhghIi2Dpvyb/view?usp=drive_link
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+https://zayyoo.wordpress.com/2023/12/28/jenis-jenis-mesin-komputasi/
+
 Mesin komputasi merupakan mesin yang merujuk pada berbagai jenis hardware dan software. Mesin komputasi digunakan untuk memproses informasi dan menyelesaikan tugas komputasi. 
 Jenis-jenis mesin komputasi yang umum digunakan diantaranya :
 1.	Personal Computer ( komputer Pribadi)
