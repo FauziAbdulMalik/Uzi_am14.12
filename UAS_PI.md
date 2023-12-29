@@ -139,6 +139,7 @@ LINK Worldpress : https://zayyoo.wordpress.com
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+https://zayyoo.wordpress.com/2023/12/29/12-profesi-yang-menunggu-alumni-teknik-informatika/
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 https://drive.google.com/file/d/1fb0GNKbVWnqNp505wvQYCwI3Nnrknd_Y/view?usp=drive_link
