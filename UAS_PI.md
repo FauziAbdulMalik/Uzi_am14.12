@@ -130,6 +130,7 @@ LINK Worldpress : https://zayyoo.wordpress.com
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+https://drive.google.com/file/d/1Fcdj59VnSUXisSECqkFSCenudf86uBeD/view?usp=drive_link
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
