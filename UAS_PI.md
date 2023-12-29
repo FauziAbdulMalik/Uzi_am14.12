@@ -123,6 +123,8 @@ LINK Worldpress : https://zayyoo.wordpress.com
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+Profil : ![HuggingFace](https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/20f37fbc-e592-47c4-a365-47e7a73d30ed)
+
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
@@ -137,6 +139,7 @@ LINK Worldpress : https://zayyoo.wordpress.com
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+https://drive.google.com/file/d/142bwvyfC6e9wgqD0pSQkPuffLqyznQF0/view?usp=drive_link
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 https://zayyoo.wordpress.com/2023/12/29/12-profesi-yang-menunggu-alumni-teknik-informatika/
