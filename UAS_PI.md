@@ -38,6 +38,9 @@ https://scratch.mit.edu/projects/944456183
 
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+![codingan BubbleSort](https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/698c4eda-75cd-4e4c-a804-9a434d6ebcb5)
+![Output BubbleSort](https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/6a829a14-7d11-4556-a386-7d734e699d09)
+
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
