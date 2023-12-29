@@ -166,7 +166,7 @@ https://drive.google.com/file/d/1Ey2xPWEr_X-XpoMFHnZBwK80nUZRaweO/view?usp=drive
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
-
+https://zayyoo.wordpress.com/2023/12/29/aku-masih-belum-mengenal-diriku-sendiri-kalimat-yang-hangat-bagi-hati-yang-hancur/
 
 
 
