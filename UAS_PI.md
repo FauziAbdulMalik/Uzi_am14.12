@@ -29,7 +29,9 @@ https://drive.google.com/file/d/1ip9SKlHYVLI7ZF1AyoJZssDBcutD_ArX/view?usp=drive
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 https://app.diagrams.net/#G1X8ZG8bQqsa9vZerfALDUc-pX5tP9FdeZ
-![Alt text](<flowcart algoritma.drawio-1.png>)
+![Screenshot (10)](https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/1798ed84-9130-4a89-b9c8-2aa9d070f909)
+
+
 
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
