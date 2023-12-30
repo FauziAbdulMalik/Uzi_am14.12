@@ -121,8 +121,10 @@ https://drive.google.com/file/d/156ei3r5f-ieHQwDJOh21zdU8oMO5Lawr/view?usp=drive
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+https://drive.google.com/file/d/1y9zek9RQsgb_U9yFJC5n0RBEKHMsR-T7/view?usp=drive_link
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+https://drive.google.com/file/d/1y9zek9RQsgb_U9yFJC5n0RBEKHMsR-T7/view?usp=drive_link
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
