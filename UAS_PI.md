@@ -108,8 +108,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 LINK Worldpress : https://zayyoo.wordpress.com
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+https://drive.google.com/file/d/1SHPc-TxwPNkjUS1hVJ2q91F1-OWflE0Z/view?usp=drive_link
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+https://drive.google.com/file/d/1SHPc-TxwPNkjUS1hVJ2q91F1-OWflE0Z/view?usp=drive_link
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
@@ -131,6 +133,7 @@ LINK Worldpress : https://zayyoo.wordpress.com
 
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+https://drive.google.com/file/d/1K_l9sNg_YrH32gfuMYZ1tU_ISsdMmpwv/view?usp=drive_link
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 https://drive.google.com/file/d/1Fcdj59VnSUXisSECqkFSCenudf86uBeD/view?usp=drive_link
