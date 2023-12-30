@@ -47,6 +47,7 @@ https://scratch.mit.edu/projects/944456183
 
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+https://drive.google.com/file/d/1uqMwGsM19OvafZUzVIM4s7EbK6B3WLw6/view?usp=drive_link
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 https://drive.google.com/file/d/1ru06CwRVkHYXYygPnW4ekl8i1wADCAk6/view?usp=drive_link
