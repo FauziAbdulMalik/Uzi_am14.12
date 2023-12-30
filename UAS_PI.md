@@ -165,6 +165,7 @@ https://zayyoo.wordpress.com/2023/12/29/12-profesi-yang-menunggu-alumni-teknik-i
 https://drive.google.com/file/d/1fb0GNKbVWnqNp505wvQYCwI3Nnrknd_Y/view?usp=drive_link
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+https://drive.google.com/file/d/1bFjO2sTKgbl4x9PJE_ET_13Kj617m9IM/view?usp=drive_link
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 https://drive.google.com/file/d/13M7E6IRpEB0KoLiVE8TsdwRAFk9-pEzs/view?usp=drive_link
