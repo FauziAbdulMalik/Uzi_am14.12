@@ -69,6 +69,7 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+https://zayyoo.wordpress.com/2023/12/30/pengertian-fungsi-contohnya/
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
