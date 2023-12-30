@@ -175,6 +175,7 @@ https://drive.google.com/file/d/1Ey2xPWEr_X-XpoMFHnZBwK80nUZRaweO/view?usp=drive
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+https://drive.google.com/file/d/1_0qm9R-aD7GvFJmtNOOolxhjZ95iU4eF/view?usp=drive_link
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
