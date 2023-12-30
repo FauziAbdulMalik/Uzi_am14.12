@@ -114,6 +114,7 @@ https://drive.google.com/file/d/1SHPc-TxwPNkjUS1hVJ2q91F1-OWflE0Z/view?usp=drive
 https://drive.google.com/file/d/1SHPc-TxwPNkjUS1hVJ2q91F1-OWflE0Z/view?usp=drive_link
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+https://drive.google.com/file/d/156ei3r5f-ieHQwDJOh21zdU8oMO5Lawr/view?usp=drive_link
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
