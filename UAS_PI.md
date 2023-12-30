@@ -179,6 +179,7 @@ https://drive.google.com/file/d/1Ey2xPWEr_X-XpoMFHnZBwK80nUZRaweO/view?usp=drive
 https://drive.google.com/file/d/1qRg9Qo9YpleRx971S69aXiO_s3654u0p/view?usp=drive_link
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+https://drive.google.com/file/d/1356XZYDOQVlBG87xXcHV-ZsKU4bfKanu/view?usp=drive_link
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 https://drive.google.com/file/d/1_0qm9R-aD7GvFJmtNOOolxhjZ95iU4eF/view?usp=drive_link
