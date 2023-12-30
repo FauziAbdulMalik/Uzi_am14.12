@@ -174,6 +174,7 @@ https://drive.google.com/file/d/13M7E6IRpEB0KoLiVE8TsdwRAFk9-pEzs/view?usp=drive
 https://drive.google.com/file/d/1Ey2xPWEr_X-XpoMFHnZBwK80nUZRaweO/view?usp=drive_link
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+https://drive.google.com/file/d/1duMP34Gqvg28wRB0VLpLQSjNwzsi57Yi/view?usp=drive_link
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 https://drive.google.com/file/d/1qRg9Qo9YpleRx971S69aXiO_s3654u0p/view?usp=drive_link
