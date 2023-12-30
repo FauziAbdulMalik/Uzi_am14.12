@@ -129,8 +129,10 @@ https://drive.google.com/file/d/1y9zek9RQsgb_U9yFJC5n0RBEKHMsR-T7/view?usp=drive
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+https://zayyoo.wordpress.com/2023/12/30/mencoba-data-visualization-dengan-tools/
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+https://zayyoo.wordpress.com/2023/12/30/mencoba-data-visualization-dengan-tools/
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 - Link Video : https://drive.google.com/file/d/1crEXGPqAriqNYaXbrzOkyZeSpgPXo32c/view?usp=drive_link
