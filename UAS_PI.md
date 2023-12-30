@@ -133,7 +133,9 @@ https://drive.google.com/file/d/1SHPc-TxwPNkjUS1hVJ2q91F1-OWflE0Z/view?usp=drive
 
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
-https://drive.google.com/file/d/1K_l9sNg_YrH32gfuMYZ1tU_ISsdMmpwv/view?usp=drive_link
+- Link Drive: https://drive.google.com/file/d/1K_l9sNg_YrH32gfuMYZ1tU_ISsdMmpwv/view?usp=drive_link
+- Gambar ![Screenshot (11)](https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/1b77033d-e289-4696-9292-bb1b8154b779)
+
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 https://drive.google.com/file/d/1Fcdj59VnSUXisSECqkFSCenudf86uBeD/view?usp=drive_link
