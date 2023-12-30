@@ -75,8 +75,7 @@ https://zayyoo.wordpress.com/2023/12/30/pengertian-fungsi-contohnya/
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+https://drive.google.com/file/d/1aFYHBYpy0X4MOB398zNbCOtfdywhuvw1/view?usp=drive_link
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
