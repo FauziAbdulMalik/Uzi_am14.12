@@ -89,6 +89,7 @@ https://zayyoo.wordpress.com/2023/12/31/mencoba-penerapan-teknik-search-engine-o
 https://zayyoo.wordpress.com/2023/12/31/penggunaan-web-hosting-dengan-untuk-halaman-html/
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+https://drive.google.com/file/d/1ScjKZZmzU4c9gMFFdTRuw2J54jm2jucU/view?usp=drive_link
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 https://zayyoo.wordpress.com/2023/12/30/mencoba-api-dengan-postman/
