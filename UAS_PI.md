@@ -78,11 +78,7 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 https://drive.google.com/file/d/1aFYHBYpy0X4MOB398zNbCOtfdywhuvw1/view?usp=drive_link
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+https://zayyoo.wordpress.com/2023/12/31/mencoba-pembuatan-halaman-web-menggunakan-html-css-dan-javascript/
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
