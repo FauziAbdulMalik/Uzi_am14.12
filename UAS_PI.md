@@ -146,6 +146,7 @@ https://drive.google.com/file/d/1Fcdj59VnSUXisSECqkFSCenudf86uBeD/view?usp=drive
 https://zayyoo.wordpress.com/2023/12/31/memproses-file-csv-menggunakan-google-colab/
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+https://zayyoo.wordpress.com/2023/12/31/mencoba-memproses-file-big-data-orc-menggunakan-google-colab/
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 https://zayyoo.wordpress.com/2023/12/31/menjelaskan-jurnal-conference-artikel-grade-jurnal/
