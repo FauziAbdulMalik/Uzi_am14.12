@@ -81,8 +81,7 @@ https://drive.google.com/file/d/1aFYHBYpy0X4MOB398zNbCOtfdywhuvw1/view?usp=drive
 https://zayyoo.wordpress.com/2023/12/31/mencoba-pembuatan-halaman-web-menggunakan-html-css-dan-javascript/
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
-Referensi []
+https://zayyoo.wordpress.com/2023/12/31/mencoba-penerapan-teknik-search-engine-optimization-seo-pada-html/
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
