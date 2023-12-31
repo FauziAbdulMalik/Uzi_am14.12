@@ -143,6 +143,7 @@ https://zayyoo.wordpress.com/2023/12/30/mencoba-data-visualization-dengan-tools/
 https://drive.google.com/file/d/1Fcdj59VnSUXisSECqkFSCenudf86uBeD/view?usp=drive_link
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+https://zayyoo.wordpress.com/2023/12/31/memproses-file-csv-menggunakan-google-colab/
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
