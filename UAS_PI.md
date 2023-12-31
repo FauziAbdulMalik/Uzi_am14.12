@@ -91,7 +91,7 @@ Referensi []
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
+https://zayyoo.wordpress.com/2023/12/31/penggunaan-web-hosting-dengan-untuk-halaman-html/
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
