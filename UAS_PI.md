@@ -149,6 +149,7 @@ https://drive.google.com/file/d/1Fcdj59VnSUXisSECqkFSCenudf86uBeD/view?usp=drive
 https://zayyoo.wordpress.com/2023/12/31/menjelaskan-jurnal-conference-artikel-grade-jurnal/
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+https://drive.google.com/file/d/1diA_R8PItADoEGDtd_XXIDUwQEPF1CQA/view?usp=drive_link
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 https://drive.google.com/file/d/142bwvyfC6e9wgqD0pSQkPuffLqyznQF0/view?usp=drive_link
