@@ -94,6 +94,7 @@ https://drive.google.com/file/d/1ScjKZZmzU4c9gMFFdTRuw2J54jm2jucU/view?usp=drive
 https://zayyoo.wordpress.com/2023/12/30/mencoba-api-dengan-postman/
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+https://drive.google.com/file/d/1svYbMyOVU67QsiidrJrc2XAte_VaY94u/view?usp=drive_link
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
