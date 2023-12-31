@@ -72,8 +72,6 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 https://zayyoo.wordpress.com/2023/12/30/pengertian-fungsi-contohnya/
 
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
-
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 https://drive.google.com/file/d/1aFYHBYpy0X4MOB398zNbCOtfdywhuvw1/view?usp=drive_link
 
@@ -84,6 +82,7 @@ https://zayyoo.wordpress.com/2023/12/31/mencoba-pembuatan-halaman-web-menggunaka
 https://zayyoo.wordpress.com/2023/12/31/mencoba-penerapan-teknik-search-engine-optimization-seo-pada-html/
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+https://zayyoo.wordpress.com/2023/12/31/cara-membuat-file-json/
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 https://zayyoo.wordpress.com/2023/12/31/penggunaan-web-hosting-dengan-untuk-halaman-html/
