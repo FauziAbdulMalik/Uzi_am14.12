@@ -60,14 +60,10 @@ https://drive.google.com/file/d/1ru06CwRVkHYXYygPnW4ekl8i1wADCAk6/view?usp=drive
 https://drive.google.com/file/d/1vEePIEWPyTm1L6sR8zQ-WQ4cT2BEV1xJ/view?usp=drive_link
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
+https://drive.google.com/file/d/1RTFmFscY8Xgl9rVnbutvKLf1cZsRgppp/view?usp=drive_link
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
+https://drive.google.com/file/d/1BUmgdXQxxeHWUIfjC96WX54TMLCtoJxp/view?usp=drive_link
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 https://zayyoo.wordpress.com/2023/12/30/pengertian-fungsi-contohnya/
