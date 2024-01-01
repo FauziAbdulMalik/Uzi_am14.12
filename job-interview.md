@@ -79,7 +79,10 @@ PENGENDARA {
 
 ## 4. Arsitektur Sistem
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+```mermaid
+flowchart TD
+    id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: Javascript - Laravel] <--> id3[Web Server: Javascript - Laravel]  
+```
 
 ## 5. Teknologi, Library, dan Framework
 
