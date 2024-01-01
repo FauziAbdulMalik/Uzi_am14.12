@@ -81,7 +81,7 @@ PENGENDARA {
 
 ```mermaid
 flowchart TD
-    id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: Javascript - Laravel] <--> id3[Web Server: Javascript - Laravel]  
+    id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: Javascript - html,css] <--> id3[Web Server: Javascript - html,css]  
 ```
 
 ## 5. Teknologi, Library, dan Framework
