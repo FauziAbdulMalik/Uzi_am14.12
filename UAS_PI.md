@@ -55,6 +55,7 @@ https://drive.google.com/file/d/1ru06CwRVkHYXYygPnW4ekl8i1wADCAk6/view?usp=drive
 
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+https://drive.google.com/file/d/1IL5WRFJRiY0V7GgRdsNBdLKkgLHCAVJY/view?usp=drive_link
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 https://drive.google.com/file/d/1vEePIEWPyTm1L6sR8zQ-WQ4cT2BEV1xJ/view?usp=drive_link
