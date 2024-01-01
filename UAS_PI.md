@@ -185,6 +185,7 @@ https://drive.google.com/file/d/1356XZYDOQVlBG87xXcHV-ZsKU4bfKanu/view?usp=drive
 https://drive.google.com/file/d/1_0qm9R-aD7GvFJmtNOOolxhjZ95iU4eF/view?usp=drive_link
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+![Screenshot (17)](https://github.com/FauziAbdulMalik/Uzi_am14.12/assets/148252902/8aff25ce-b29a-49aa-b38e-2080148e5be8)
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 https://zayyoo.wordpress.com/2023/12/29/aku-masih-belum-mengenal-diriku-sendiri-kalimat-yang-hangat-bagi-hati-yang-hancur/
