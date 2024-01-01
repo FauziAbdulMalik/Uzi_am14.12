@@ -111,18 +111,22 @@ Saya membuat website ini menggunakan teknologi visual Studio Code dan library ya
 ## 7. Demonstrasi Video
 
 Link youtube nya
+https://drive.google.com/file/d/1IL5WRFJRiY0V7GgRdsNBdLKkgLHCAVJY/view?usp=drive_link
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
 Link youtube nya di detik jawaban ini
+https://drive.google.com/file/d/1IL5WRFJRiY0V7GgRdsNBdLKkgLHCAVJY/view?usp=drive_link
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
 Link youtube nya di detik jawaban ini
+https://drive.google.com/file/d/1IL5WRFJRiY0V7GgRdsNBdLKkgLHCAVJY/view?usp=drive_link
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+Link youtube nya di detik jawaban ini https://drive.google.com/file/d/1IL5WRFJRiY0V7GgRdsNBdLKkgLHCAVJY/view?usp=drive_link
+
 Proses Pembangunan Teknologi Informasi secara umum mengikuti Web Development Life Cycle :
 
 
@@ -153,3 +157,4 @@ Proses Pembangunan Teknologi Informasi secara umum mengikuti Web Development Lif
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
 Link youtube nya di detik jawaban ini
+https://drive.google.com/file/d/1IL5WRFJRiY0V7GgRdsNBdLKkgLHCAVJY/view?usp=drive_link
